@@ -1,0 +1,15 @@
+const rbCheatSheet = {
+  console_log: 'puts',
+  template_literal: '#{}',
+  comment: '#',
+  default_variable_declaration: 'let',
+  'package.json': 'bundle',
+  npm: 'gem',
+  typeof: '.inspect',
+  convert_to_integer: '.to_i',
+  convert_to_string: '.to_s',
+  convert_to_float: '.to_f',
+  getting_input_from_user: 'gets.chomp',
+  getting_input_from_argument: 'ARGV',
+  How_to_open_and_read_file_in_irb: 'txt = File.open("Filename.txt") txt.read',
+};
