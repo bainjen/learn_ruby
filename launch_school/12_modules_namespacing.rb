@@ -18,7 +18,7 @@ module Mammal
 end
 
 #in a module call classes by appending the class name with to colons ::
-budy = Mammal::Dog.new
+buddy = Mammal::Dog.new
 kitty = Mammal::Cat.new
 buddy.speak('Arf!')
 kitty.say_name('kitty')
