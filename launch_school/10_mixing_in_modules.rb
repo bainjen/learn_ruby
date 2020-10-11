@@ -33,3 +33,7 @@ neemo.swim                  # => I'm swimming!
 paws.swim                   # => NoMethodError: undefined method `swim' for #<Cat:0x007fc453152308>
 
 #ruby convention adds 'able' to behavior -- not necessary but common
+
+#class inhertiance is traditional -- one type inherits behavior of another
+#interface inheritance uses mixin modules -- the class does not inherit from another. It inherits from a mixin module (mixins are unlimited)
+#no object can be made from a module 
